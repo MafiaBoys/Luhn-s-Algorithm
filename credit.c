@@ -1,7 +1,7 @@
 #include <cs50.h>
 #include <stdio.h>
 
-// @MafiaBoy
+// @MafiaBoy #CS50x
 
 typedef long long QWORD;
 
