@@ -1,3 +1,5 @@
+// copyLeft (ButterC) all right changed 
+// author MafiaBoy (#CS50X)
 #include <cs50.h>
 #include <stdio.h>
 
